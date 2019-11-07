@@ -1,0 +1,39 @@
+body 
+{
+	background-color: red;
+	color: white;
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+table {
+	background-color: #FF0000;
+	border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black
+    padding: 5px;
+    text-align:center;
+    font-family: 'Mansalva', cursive;
+} 
+th {
+	color: #FFFFFF;
+	}
+
+<style type="text/css">
+
+.white {
+        background-color: #FF0000;
+
+      }
+
+
+</style>
